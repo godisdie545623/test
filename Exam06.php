@@ -1,5 +1,5 @@
 <?php
-
+// 六、兩數總和
 $test_arr = Array(3,3);
 $test_target = 6;
 function twoSum($nums,$target){

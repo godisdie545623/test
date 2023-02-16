@@ -1,4 +1,5 @@
 <?php
+	// 一、物件導向_繼承及介面
 	class Motorcycle{
 		protected $wheel;
 		protected $body;
